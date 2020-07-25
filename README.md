@@ -1,2 +1,7 @@
 # 3D-Color-Magic
-An augmented reality
+An augmented reality app
+
+Used technologies:
+i. Vuforia
+ii. Dynamic texture mapping
+iii.Unity
